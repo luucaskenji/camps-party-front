@@ -4,7 +4,7 @@
 
 # Camps Party (FrontEnd)
 
- ![license](https://img.shields.io/github/license/thaliadettenborn/campsParty-FrontEnd?style=flat-square) ![total lines](https://img.shields.io/tokei/lines/github/thaliadettenborn/campsParty-FrontEnd) ![last commit](https://img.shields.io/github/last-commit/thaliadettenborn/campsParty-FrontEnd?style=flat-square) ![issues](https://img.shields.io/github/package-json/v/thaliadettenborn/campsParty-FrontEnd?style=flat-square) ![forks](https://img.shields.io/github/forks/thaliadettenborn/campsParty-FrontEnd?style=flat-square) 
+ ![license](https://img.shields.io/github/license/luucaskenji/camps-party-front?style=flat-square) ![total lines](https://img.shields.io/tokei/lines/github/luucaskenji/camps-party-front) ![last commit](https://img.shields.io/github/last-commit/luucaskenji/camps-party-front?style=flat-square) ![issues](https://img.shields.io/github/package-json/v/luucaskenji/camps-party-front?style=flat-square) ![forks](https://img.shields.io/github/forks/luucaskenji/camps-party-front?style=flat-square) 
 
 <br><br>
 ## About
