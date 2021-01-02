@@ -47,7 +47,7 @@ Before you begin, you will need to have the following tools installed on your ma
 ### Running the web application
 ```bash
 # Clone this repository
-$ git clone <hhttps://github.com/thaliadettenborn/campsParty-FrontEnd.git>
+$ git clone <https://github.com/luucaskenji/camps-party-front.git>
 
 # Access the project folder cmd/terminal
 $ cd campsParty-FrontEnd
